@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mylesamos231
 - 👀 I’m interested in programming/Software Development/Industrial Technology
 - 🌱 I’m currently learning Software Development
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email: mylesamos231@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love macaroni and cheese 🧀 
